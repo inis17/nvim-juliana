@@ -5,7 +5,7 @@
 ---@param highlight fun(group: string, style: table<string, any>): nil # highlighting function
 return function(colors, highlight)
     local C = colors
-    local default = { fg = C.fg2, bg = C.bg2 }
+    local default = { fg = C.fg2, bg = C.yellow3 }
     local muted = { fg = C.fg3 }
     local selection = { bg = C.selection_bg }
     local text_red = { fg = C.red2 }
