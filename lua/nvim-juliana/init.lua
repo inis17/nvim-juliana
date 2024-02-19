@@ -31,7 +31,7 @@ function M:load()
     vim.cmd('hi clear')
   end
   vim.cmd('set t_Co=256')
-  vim.g.colors_name = 'juliana'
+  vim.g.colors_name = 'juliana-lessi'
   theme(self.config.colors, highlight)
 end
 
