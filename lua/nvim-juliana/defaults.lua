@@ -6,7 +6,7 @@ return {
   fg3          = '#a6acb9',
   fg4          = '#46525c',
   bg1          = '#3f4750',
-  selection_bg = '#303841',
+  selection_bg = '#485563',
   bg2          = '#2e353e',
   bg3          = '#272d34',
   diff_text    = '#373f48',
