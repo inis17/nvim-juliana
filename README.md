@@ -1,8 +1,7 @@
-**NOTICE**: The original project has been archived (2024-01-25).
 # nvim-juliana
-
+This is a fork of the work of : 
 Port of Sublime's Mariana Theme for Neovim with Tree-sitter support.
-This fork intend to reduce the spacing between each letters and the amount of italic text as well.
+This fork intend to reduce the amount of italic text.
 
 <details>
 <summary><h2>📸 Screenshot</h2></summary>
